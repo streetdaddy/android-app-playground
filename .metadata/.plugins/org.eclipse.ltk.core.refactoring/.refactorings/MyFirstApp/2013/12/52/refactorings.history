@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MyFirstApp/res/values/theme.xml&apos; to &apos;themes.xml&apos;" description="Rename resource &apos;theme.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/values/theme.xml" name="themes.xml" stamp="1387884172082" updateReferences="true"/>
+</session>

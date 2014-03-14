@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/mtillinger/src/my-first-android-app/.metadata/.plugins/org.eclipse.jdt.core
+2321103384.index
+2866552604.index
+3818067846.index
